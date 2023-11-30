@@ -1,5 +1,5 @@
 import React from "react";
-import { OneColumn } from "./One-column/OneColumn";
+import { OneColumn } from "./One-Column/OneColumn";
 import { TwoColumn } from "./Two-Column/TwoColumn";
 import { ThreeCol } from "./Three-Column/ThreeColumn";
 
