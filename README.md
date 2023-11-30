@@ -1,9 +1,3 @@
-# React + Vite
+# React + Vebsite + online + shop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-  [Flowchart+Diagram (1).pdf](https://github.com/hoseingh7/my-project/files/13518759/Flowchart%2BDiagram.1.pdf)
+![Flowchart Diagram](https://github.com/hoseingh7/my-project/assets/139072268/cdcfc94c-5c13-4649-a35d-4c7befefe82c)
