@@ -1,7 +1,13 @@
 import React from "react";
+import { useState } from "react";
+import LoginDetail from "../Components/LoginDetail/LoginDetail";
 
-const Login = () => {
-  return <div></div>;
-};
+function Login() {
+  return (
+    <div>
+      <LoginDetail />
+    </div>
+  );
+}
 
 export default Login;
