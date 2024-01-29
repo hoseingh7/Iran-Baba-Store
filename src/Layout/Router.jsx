@@ -10,9 +10,10 @@ import Header from "../components/Header/Header";
 import Footer from "../components/Footer/Footer";
 
 // import { Home } from "../Pages/Home";
-import LoadingSpinner from "../components/LoadinSpinner/LoadingSpinner";
+// import LoadingSpinner from "../components/LoadinSpinner/LoadingSpinner";
+import LoadingSpinner from "../Components/LoadingSpinner/LoadingSpinner";
 import Layout from "./Layout";
-import ControlPanel from "./ControlPanel";
+// import ControlPanel from "./ControlPanel";
 // import Dashboard from "../Admin_page/Dashboard";
 const HomePage = lazy(() => import("../Pages/Home"));
 // const Admin = lazy(() => import("../Admin_page/Admin"));
